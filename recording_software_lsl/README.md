@@ -1,0 +1,2 @@
+#Lab recorder
+This directory contains a precomiled version of the [LabRecorder](https://github.com/labstreaminglayer/App-LabRecorder) for Windows 10 with a .cfg file to save data to the Desktop. If you run a different OS please see build it yourself or see precompiled versions.
