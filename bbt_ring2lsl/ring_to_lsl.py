@@ -1,7 +1,5 @@
 from contextlib import ExitStack
-import csv
 import sys
-import time
 import os
 from sys import exit
 from pylsl import StreamInfo, StreamOutlet, local_clock
